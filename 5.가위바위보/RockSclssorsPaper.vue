@@ -8,7 +8,6 @@
     </div>
     <div>{{result}}</div>
     <div>현재 {{score}}점</div>
-    <lifecycle-example v-if="true"/>
   </div>
 </template>
 
