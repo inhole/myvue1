@@ -1,6 +1,6 @@
 // vue 환경
 import Vue from 'vue';
 
-import RockSclssorsPaper from "./RockSclssorsPaper.vue";
+import RockScissorsPaper from "./RockScissorsPaper.vue";
 
-new Vue(RockSclssorsPaper).$mount('#root');
+new Vue(RockScissorsPaper).$mount('#root');
